@@ -1,16 +1,28 @@
-### Hi there 👋
+# Guillaume-GL
 
-<!--
-**Guillaume-GL/Guillaume-GL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there 👋
+I'm working on data & web dev topics.
 
-Here are some ideas to get you started:
+## Projects 💾
+[Disputsch - Le Wagon Web Development Batch Project - Private](https://github.com/Louklfv/DISPUTSCH)  
+[Game #1 - Le Wagon Data Science Batch Project - Public](https://github.com/Agnes-Lain/game_one)  
+[TBA](#)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact ＠
+You can reach out to me on [LinkedIn](https://fr.linkedin.com/in/guillaume-lefay) 
+
+## Stack 🧱
+**Langages :**
+Python, SQL, Javascript, Ruby
+
+**Tools & Visualization :**
+Tableau, Matplotlib, Seaborn, Plotly Express
+
+**Frameworks & Librairies :**
+Rails, React, Streamlit, Jupyter, Pandas, Numpy, Scikit-Learn, Statsmodel, Surprise, Fast Api, Dockers, Sqlite
+
+**Cloud Computing :** 
+Google Cloud Plateform, Big Query
+
+**Product :**
+Figma
