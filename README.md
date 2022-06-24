@@ -6,7 +6,7 @@ I'm working on data & web dev topics.
 ## Projects 💾
 [Disputsch - Le Wagon Web Development Batch Project - Private](https://github.com/Louklfv/DISPUTSCH)  
 [Game #1 - Le Wagon Data Science Batch Project - Public](https://github.com/Agnes-Lain/game_one)  
-[⍺ Goat Viz - Data Vizualisation App - Private](https://github.com/Guillaume-GL/alpha-goat-vise) [App](https://alpha-goat-viz.herokuapp.com/) 
+[⍺ Goat Viz - Data Vizualisation App - Private](https://github.com/Guillaume-GL/alpha-goat-vise) - Application available [here](https://alpha-goat-viz.herokuapp.com/) 
 
 ## Contact ＠
 You can reach out to me on [LinkedIn](https://fr.linkedin.com/in/guillaume-lefay) 
