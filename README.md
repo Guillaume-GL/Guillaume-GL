@@ -26,3 +26,6 @@ Google Cloud Plateform, Big Query
 
 **Product :**
 Figma
+
+**Project**
+Project management, Gantt, Kanban, Scrum, Agile, Notion, Trello
